@@ -1,0 +1,19 @@
+#main_footer{
+    height: 40px;
+    width: 100%;
+    font-size: .5em;
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(170, 42, 42, 0.8);
+}
+
+#main_footer > div {
+    margin: 10px 10px;
+}
+.logo-social {
+    width: 30px;
+    margin: 10px 10px;
+}
