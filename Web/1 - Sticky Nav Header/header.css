@@ -1,4 +1,6 @@
-
+* {
+    box-sizing: border-box;
+}
 .sticky-nav-header {
     display: flex;
     align-items: center;
